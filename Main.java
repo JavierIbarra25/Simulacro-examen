@@ -1,3 +1,5 @@
+// realiza una función que calcule el máximo entre 2 números
+
 public static Main{
 
     public static void main(String[] args){
