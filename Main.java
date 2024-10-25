@@ -4,6 +4,7 @@ public static Main{
 
     public static void main(String[] args){
         max(2,2);
+        system.out.println(max(2,2));
         }
 
     public static int max (int x, int y){
