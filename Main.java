@@ -4,6 +4,8 @@ public static Main{
 
     public static void main(String[] args){
         max(2,2);
+        max(4,3);
+        max(-2,1);
         system.out.println("Elnúmero máximo es " + max(2,2));
         }
 
